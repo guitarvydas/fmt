@@ -1,1 +1,2 @@
-hacking on JS prep to pull out generated JS code for glue function
+shorthand transpiler FMT format to JavaScript object suitable for Ohm-JS semantics object
+
